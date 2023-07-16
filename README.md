@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hkashifa
-- 👀 I’m interested in Cross-Platform Developement,UX/UI Design,
-- 🌱 I’m currently learning Flutter,ReactJS.
-- 💞️ I’m looking to collaborate on any project related to UI/UX and Cross Platform Mobile Developement.
+- 🌱 I’m currently learning Java Spring Boot.
 - 📫 How to reach me ,here's my email kashifa@iut-dhaka.edu
 
 <!---
